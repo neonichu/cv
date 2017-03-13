@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Resume in MD",
   "license": "MIT",
-  "repository": "https://github.com/neonich/resume",
+  "repository": "https://github.com/neonichu/cv",
 
   "dependencies": {
     "markdown-resume": "~0.1.0"
