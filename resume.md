@@ -1,10 +1,10 @@
 # Boris Bügling
-## Senior iOS Developer and Speaker
+## Senior Developer and Speaker
 
 > [buegling.com](http://buegling.com)
 > [github.com/neonichu](https://github.com/neonichu)
 > [boris@buegling.com](mailto:boris@buegling.com)
-> +49 151 15773280
+> +49 176 20162696
 
 ------
 
@@ -24,7 +24,10 @@
 
 ### Work Experience
 
-**Contentful GmbH** *Senior iOS Developer* __2014 to present__
+**Apple GmbH** *Software Engineer* __2016 to present__
+	Member of the Developer Tools organisation.
+
+**Contentful GmbH** *Senior iOS Developer* __2014 to 2016__
 	Developed an iOS SDK for integrating with the Contentful content management platform.
 	Developed a persistence layer and Xcode plugin for easy offline use of Contentful on iOS.
 	Wrote numerous example apps and documentation to help customers with their Contentful apps.
